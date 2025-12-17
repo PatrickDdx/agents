@@ -1,0 +1,6 @@
+this is a guide for git:
+
+1.
+2.
+3.
+4.
